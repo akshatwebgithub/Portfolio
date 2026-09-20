@@ -35,6 +35,7 @@ const projectUrls = [
     "https://ahmadboxcricket.com/home",
     "https://sankalanindia.in/",
     "https://hathkarghaudhyog.in/",
+    "https://jerrycaster.com/"
 ];
 
 
